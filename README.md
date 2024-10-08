@@ -6,7 +6,6 @@ I'm a passionate Full Stack Web Developer with a strong skill set in both front-
 - Web Development
 - UI/UX Design
 - Blockchain Development
-- Forex Trading
 - Learning new languages (currently Dutch, Japanese, and Spanish)
 - Anime
 
